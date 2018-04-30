@@ -1,0 +1,56 @@
+[
+	{
+		"id": 1,
+		"image": "./components/assets/happy.png",
+		"clicked": false
+	},
+
+	{
+		"id": 2,
+		"image": "./components/assets/sad.png",
+		"clicked": false
+	},
+
+	{
+		"id": 3,
+		"image": "./components/assets/laughing.png",
+		"clicked": false
+	},
+	
+	{
+		"id": 4,
+		"image": "./components/assets/crying.png",
+		"clicked": false
+
+	},
+
+	{
+		"id": 5,
+		"image": "./components/assets/neutral.png",
+		"clicked": false
+	},
+
+	{
+		"id": 6,
+		"image": "./components/assets/stunned.png",
+		"clicked": false
+	},
+
+	{
+		"id": 7,
+		"image": "./components/assets/despair.png",
+		"clicked": false
+	},
+
+	{
+		"id": 8,
+		"image": "./components/assets/shit.png",
+		"clicked": false
+	},
+
+	{
+		"id": 9,
+		"image": "./components/assets/wink.png",
+		"clicked": false
+	}
+]
